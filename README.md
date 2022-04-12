@@ -5,3 +5,5 @@ Igjen
 og igjen
 
 Her skriver jeg noe nytt.
+
+Dette er endring nr to
